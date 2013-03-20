@@ -29,7 +29,7 @@ to organize. Those are organized in [the issues section][2].
 We are going to use this repo as a folder for everything (documents) we
 need. So we'll be drafting policies, applications, you name it.
 
-So pitch in, create an issue, make a pull request, discuss them! 
+So pitch in, create an issue, make a pull request, discuss them!
 
 Let's get cracking!
 
@@ -44,4 +44,4 @@ Preliminary plan
 * Get accepted
 * Manage the "thing"
 
-[2]: https://github.com/joallard/dot-src/issues/
+[2]: https://github.com/dot-src/dot-src/issues
