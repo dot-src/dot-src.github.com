@@ -7,3 +7,29 @@ body {
   width: 960px;
   margin: 0 auto;
 }
+
+#header {
+  border-bottom: 1px solid #ddd;
+
+  h1 {
+    margin-bottom: 10px;
+  }
+}
+
+#page {
+  padding: 10px 0;
+}
+
+#footer {
+  border-top: 1px solid #ddd;
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      display: inline;
+      margin-right: 8px;
+    }
+  }
+}

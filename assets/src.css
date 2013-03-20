@@ -1,3 +1,12 @@
 body { background-color: #fff; color: #000; }
 
 #wrapper { width: 960px; margin: 0 auto; }
+
+#header { border-bottom: 1px solid #ddd; }
+#header h1 { margin-bottom: 10px; }
+
+#page { padding: 10px 0; }
+
+#footer { border-top: 1px solid #ddd; }
+#footer ul { list-style: none; padding: 0; }
+#footer ul li { display: inline; margin-right: 8px; }
